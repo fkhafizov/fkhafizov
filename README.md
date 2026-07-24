@@ -32,15 +32,16 @@ I previously worked as a Distinguished Fellow and data scientist at Verizon, dev
 | Project                                                          | Description                                                                                                |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | [Research Portfolio](https://fkhafizov.github.io/research/)      | Interactive overview of my current mathematical and machine-learning research                              |
-| [Consecutive-Cycle Graphs](https://github.com/fkhafizov/ccycles) | Computational experiments and visualizations for distances on consecutive-cycle Cayley and Schreier graphs |
-| [Word2Vec Introduction](https://github.com/fkhafizov/w2v_intro)  | Interactive demonstrations of word embeddings and the geometry behind Word2Vec                             |
-| [LTE Demos](https://github.com/fkhafizov/lte_demos)              | Visual and computational demonstrations related to wireless-network modeling                               |
-| [PDE Demos](https://github.com/fkhafizov/pdes)                   | Interactive experiments involving partial differential equations and mathematical dynamics                 |
-| [Quantum Computing](https://github.com/fkhafizov/quantum)        | Notes and computational demonstrations in quantum information and quantum computing                        |
+| [Demos for 2603.22195](https://fkhafizov.github.io/animation)        | demos for the PAPER https://arxiv.org/pdf/2603.22195 |
+| [Consecutive-Cycle Graphs](https://fkhafizov.github.io/ccycles/) | Computational experiments and visualizations for distances on consecutive-cycle Cayley and Schreier graphs |
+| [Word2Vec Introduction](https://fkhafizov.github.io/w2v_intro)  | Interactive demonstrations of word embeddings and the geometry behind Word2Vec                             |
+| [PDE Demos](https://fkhafizov.github.io/pdes)                   | Interactive experiments involving partial differential equations and mathematical dynamics                 |
+| [LTE Demos](https://fkhafizov.github.io/lte_demos)              | Visual and computational demonstrations related to wireless-network modeling                               |
+| [other demos](https://fkhafizov.github.io/apps)        | misc      |
 
 ## Selected Research Direction
 
-A recurring theme in my research is the computation and approximation of graph distance,
+A recurring theme in our research is the computation and approximation of graph distance,
 
 $$
 d_G(X,Y),
@@ -67,3 +68,7 @@ These questions connect graph algorithms, representation learning, combinatorics
 ### Mathematics · Machine Learning · Graphs · Scientific Computing
 
 </div>
+
+
+
+<!--| [Quantum Computing](https://github.com/fkhafizov/quantum)        | Notes and computational demonstrations in quantum information and quantum computing                        |-->
