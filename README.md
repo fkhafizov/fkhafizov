@@ -71,4 +71,7 @@ These questions connect graph algorithms, representation learning, combinatorics
 
 
 
-<!--| [Quantum Computing](https://github.com/fkhafizov/quantum)        | Notes and computational demonstrations in quantum information and quantum computing                        |-->
+<!--
+| [Research Portfolio](https://fkhafizov.github.io/research/)      | Interactive overview of my current mathematical and machine-learning research                              |
+| [Quantum Computing](https://github.com/fkhafizov/quantum)        | Notes and computational demonstrations in quantum information and quantum computing                        |
+-->
