@@ -31,7 +31,7 @@ I previously worked as a Distinguished Fellow and data scientist at Verizon, dev
 
 | Project                                                          | Description                                                                                                |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| [Research Portfolio](https://fkhafizov.github.io/research/)      | Interactive overview of my current mathematical and machine-learning research                              |
+| [Holography Portfolio](https://fkhafizov.github.io/holography/)      | Interactive overview of my current mathematical and machine-learning research                              |
 | [Demos for 2603.22195](https://fkhafizov.github.io/animation)        | demos for the PAPER https://arxiv.org/pdf/2603.22195 |
 | [Consecutive-Cycle Graphs](https://fkhafizov.github.io/ccycles/) | Computational experiments and visualizations for distances on consecutive-cycle Cayley and Schreier graphs |
 | [Word2Vec Introduction](https://fkhafizov.github.io/w2v_intro)  | Interactive demonstrations of word embeddings and the geometry behind Word2Vec                             |
