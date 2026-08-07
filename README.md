@@ -6,7 +6,7 @@
 
 I work at the intersection of **machine learning, graph algorithms, mathematical modeling, and scientific computing**.
 
-[Holography Portfolio](https://fkhafizov.github.io/holography) · [LTE/5G Portfolio](https://fkhafizov.github.io/lte_demos)  · [RAG/LangGraph](https://fkhafizov.github.io/rag-langgraph)  
+[Holography Portfolio](https://fkhafizov.github.io/holography) · [RAG/LangGraph](https://fkhafizov.github.io/rag-langgraph)  · [LTE/5G](https://fkhafizov.github.io/lte_demos)  
 
 
 </div>
